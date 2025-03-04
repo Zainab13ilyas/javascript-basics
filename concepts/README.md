@@ -1,17 +1,3 @@
-🚀 Hoisting in JavaScript
-
-📚 Overview
-
-Hoisting is JavaScript's behavior of moving function and variable declarations to the top of their scope before execution. This means you can use a function or variable before actually declaring it in the code.
-
-📂 Folder Structure
-
-hoisting/
-├── explanation.docx # Detailed explanation
-├── example.js # Code demonstrating hoisting
-├── index.html # HTML file to run in browser
-├── README.md # Instructions for running the code
-
 🔥 Running the Code
 
 🏃‍♂️ Method 1: Open in Browser
@@ -32,9 +18,9 @@ Step 1. Clone the Repository:
 If you haven’t cloned the repo yet, run:
 
 git clone https://github.com/your-username/javascript-basics.git
-Then navigate to the hoisting folder:
+Then navigate to the respective folder:
 
-cd javascript-basics/concepts/hoisting
+cd javascript-basics/concepts/${respective concept}
 
 Step 2. Open in a Browser for Debugging:
 
@@ -48,7 +34,7 @@ On Mac/Linux: Open it with a browser manually.
 
 2. Go to the Sources tab
 
-3. Click on example.js (inside concepts/hoisting/ folder)
+3. Click on example.js (inside concepts/${respective concept}/ folder)
 
 4. Add a Breakpoint: Click on a line number to pause execution.
 
