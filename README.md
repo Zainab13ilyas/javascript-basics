@@ -4,31 +4,31 @@ A repository explaining fundamental JavaScript concepts like hoisting, closures,
 
 ## **How to Use This Repo**
 
-1. **Navigate to a Concept Folder**
+1. **Navigate to a Concept Folder:**
    Each JavaScript concept is organized into its own folder. Click on a topic to explore:
 
    - [Hoisting](./concepts/hoisting)
    - [Scope & Closures](./concepts/scope-closures/)
    - [Execution Context & Call Stack](./concepts/execution-context-and-call-stack/)
-   - [This Keyword & Binding](./concepts/this-keyword/)
+   - ["this" Keyword & Binding](./concepts/this-keyword/)
    - [Asynchronous JavaScript](./concepts/asynchronous-javascript/)
 
-2. **Start by Reading the Documentation**
+2. **Start by Reading the Documentation:**
    Inside each folder, you'll find a **`.docx` file** explaining the concept with examples:
 
    - 📄 [Hoisting Doc](./concepts/hoisting/explanation.docx)
    - 📄 [Scope & Closures Doc](./concepts/scope-closures/explanation.docx)
    - 📄 [Execution Context Doc](./concepts/execution-context-and-call-stack/explanation.docx)
-   - 📄 [This Keyword Doc](./concepts/this-keyword/explanation.docx)
+   - 📄 ["this" Keyword Doc](./concepts/this-keyword/explanation.docx)
    - 📄 [Asynchronous JavaScript Doc](./concepts/asynchronous-javascript/explanation.docx)
 
-3. **Run the Example Code**
+3. **Run the Example Code:**
    Open the corresponding `example.js` file and test it in the browser console:
 
    - 📝 [Hoisting Example](./concepts/hoisting/example.js)
    - 📝 [Scope & Closures Example](./concepts/scope-closures/example.js)
    - 📝 [Execution Context Example](./concepts/execution-context-and-call-stack/example.js)
-   - 📝 [This Keyword Example](./concepts/this-keyword/example.js)
+   - 📝 ["this" Keyword Example](./concepts/this-keyword/example.js)
    - 📝 [Asynchronous JavaScript Example](./concepts/asynchronous-javascript/example.js)
 
    **Steps:**
@@ -46,6 +46,6 @@ A repository explaining fundamental JavaScript concepts like hoisting, closures,
 ✅ Hoisting  
 ✅ Scope & Closures  
 ✅ Execution Context & Call Stack  
-✅ This Keyword & Binding  
+✅ "this" Keyword & Binding  
 ✅ Event Loop & Asynchronous JavaScript  
 ✅ Promises & Async/Await
